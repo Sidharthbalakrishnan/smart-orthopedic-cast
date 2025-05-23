@@ -65,6 +65,8 @@ This project aims to create a cast that:
 This project was developed by Sidharth.M.B and his team mates , 3rd year BTech students in Electronics and Communication Engineering at Rajagiri College of Engineering & Technology, Kochi. The Smart Orthopedic Cast is a part of an academic project focused on designing innovative healthcare solutions through embedded systems and IoT.
 
 Email:sidharthbalakrishnan21@gmail.com
-LinkedIn: linkedin.com/in/sidharth-m-b
-GitHub: github.com/Sidharthbalakrishnan
+
+LinkedIn:linkedin.com/in/sidharth-m-b
+
+GitHub:github.com/Sidharthbalakrishnan
 
